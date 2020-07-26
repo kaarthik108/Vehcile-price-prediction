@@ -1,4 +1,4 @@
-# Vehcile-price-prediction
+# Vehicle-price-prediction
 
 Predicting the vehicle price based on features like 'symboling', 'wheelbase', 'carlength', 'carwidth', 'carheight',
        'curbweight', 'enginesize', 'boreratio', 'stroke', 'compressionratio',
